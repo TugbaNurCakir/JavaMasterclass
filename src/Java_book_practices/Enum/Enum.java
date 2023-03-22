@@ -27,6 +27,6 @@ public class Enum {
 
         System.out.println(Cars.AUDI);//AUDI
         System.out.println(Cars.BMW.ordinal()); //2 // ordinal gives indis value of BMW.
-        System.out.println(Cars.MERCEDES.getSpeed()); //200
+        System.out.println(Cars.MERCEDES.getSpeed());
 }
 }
