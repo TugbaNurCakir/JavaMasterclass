@@ -1,7 +1,5 @@
 package Java_book_practices.Enum;
 
-import JavaMasterClassFolders.Inheritance.Vehicle.Car;
-
 public class Enum {
     enum Cars{
         AUDI, MERCEDES, BMW;
